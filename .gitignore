@@ -10,3 +10,7 @@ qwprogs.vcxproj.user
 
 *.o
 tags
+VM/
+.vs/
+CMakeBuilds/
+bin/
